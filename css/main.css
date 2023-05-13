@@ -2645,4 +2645,10 @@ footer .copyright span:last-child::after {
 	 }
 	
  }
+ .dropdown-text-background{
+	background: lightgray !important;
+ }
+ .margin-top{
+	margin-top: 5rem !important;
+ }
 /*# sourceMappingURL=main.css.map */
