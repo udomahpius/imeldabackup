@@ -2634,4 +2634,15 @@ footer .copyright span:last-child::after {
 	margin-left: 0 !important;
 	margin-right: 0 !important;
  }
+ @media(min-width:550px){
+	.dropdown-text{
+		width: 100% !important;
+		height: auto !important;
+		margin: 0 !important;
+		margin-top: 0 !important;
+	   padding: 1.5rem 3rem !important;
+	   overflow: hidden !important;
+	 }
+	
+ }
 /*# sourceMappingURL=main.css.map */
